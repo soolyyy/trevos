@@ -22,10 +22,7 @@ Výsledek nahrajte na Github
             width: 50%;
             margin: 0 auto;
             position: relative;
-            /* top: 10%;
-            left: 50%; */
             display: block;
-            /* transform: translate(-50%, -50%);    */
             display: flex;
             flex-wrap: wrap;
         }
